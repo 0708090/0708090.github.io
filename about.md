@@ -8,5 +8,6 @@ permalink: /whoami
 ## test2
 ### test3
 
-I'm 60 and love *penises*.
-Born and raised in TEXASS AHHH
+About page (TEST).
+Pentester and hardware tinkerer 🏳️‍⚧️
+Gamedev in the free time :)
