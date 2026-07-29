@@ -6,6 +6,9 @@
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
+url: "https://0708090.github.io"
+#baseurl: "/site"
+
 plugins:
   - jekyll-seo-tag
 
