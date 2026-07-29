@@ -1,11 +1,10 @@
-#baseurl: ""
 permalink: pretty
 
 header_pages:
   - index.md
   - about.md
 
-footer: 'check my <a href="https://github.com/benquantum">github page</a>! ❤️'
+footer: 'check me on <a href="https://github.com/benquantum">github</a>!'
 
 plugins:
   - jekyll-seo-tag
