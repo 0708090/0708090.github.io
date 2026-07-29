@@ -5,7 +5,7 @@ header_pages:
   - index.md
   - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'check my <a href="https://github.com/benquantum">github page</a>! ❤️'
 
 plugins:
   - jekyll-seo-tag
