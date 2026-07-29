@@ -1,8 +1,10 @@
-# Example Site settings
+url: "https://0708090.github.io"
+baseurl: ""
+permalink: pretty
 
-#header_pages:
-#  - index.md
-#  - about.md
+header_pages:
+  - index.md
+  - about.md
 
 #footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
