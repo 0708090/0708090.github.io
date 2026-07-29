@@ -4,7 +4,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'check me on <a href="https://github.com/benquantum">github</a>!'
+footer: 'check me on <a href="https://github.com">github</a>!'
 
 plugins:
   - jekyll-seo-tag
