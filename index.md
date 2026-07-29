@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ben
 layout: home
 permalink: /
 ---
