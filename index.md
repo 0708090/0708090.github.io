@@ -3,8 +3,13 @@ title: ben
 layout: home
 permalink: /
 ---
+WIP WEBSITE!!
+
+---Check the forked tool!---
+npm install bejs --save
+
 
 Hey there!
-This is my homepage! Peace and love ✌️❤️
+This is the homepage! Peace and love ✌️❤️
 
 Hope you like it.
