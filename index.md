@@ -4,6 +4,7 @@ layout: home
 permalink: /
 ---
 
-# ~$ whoami
+Hey there!
+This is my homepage! Peace and love ✌️❤️
 
-I'm NOT yo mama cuz ✌️
+Hope you like it.
