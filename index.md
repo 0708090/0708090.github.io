@@ -3,4 +3,5 @@ title: ben
 layout: home
 permalink: /
 ---
-wip
+Welcome to ben's website.
+This is the *official* homepage.
