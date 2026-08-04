@@ -4,7 +4,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'check me on <a href="https://github.com">github</a>!\n Please note: this website is currently in WIP state.'
+footer: 'Please note: website currently in WIP state. Check me on <a href="https://github.com">github</a>!'
 
 plugins:
   - jekyll-seo-tag
