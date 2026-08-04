@@ -6,5 +6,5 @@ permalink: /whoami
 
 # ~$ whoami
 
-About page (TEST).
+I'm Ben! I'm a larper, gamer, programmer and Linux kernel enjoyer ✌️
 
