@@ -1,5 +1,5 @@
 ---
-title: ben @ posts
+title: posts
 layout: page
 permalink: /posts
 ---
