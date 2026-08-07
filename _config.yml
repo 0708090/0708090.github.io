@@ -3,7 +3,7 @@ permalink: pretty
 header_pages:
   - index.md
   - about.md
-  - posts.md
+  - posts/posts.md
 
 footer: 'Check me on <a href="https://github.com/benquantum" target="_blank">github</a>!'
 
