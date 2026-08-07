@@ -1,6 +1,6 @@
 ---
-title: Get Employed
-layout: page
+title: get employed
+layout: default
 permalink: /post/getemployed
 ---
 
