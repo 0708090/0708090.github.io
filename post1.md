@@ -1,7 +1,7 @@
 ---
-layout: default
-permalink: /post1
-robots: noindex
+title: ben
+layout: page
+permalink: /post/getemployed
 ---
 
 # Larping methods
