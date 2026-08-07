@@ -4,4 +4,7 @@ layout: page
 permalink: /posts
 ---
 
-LIST of posts!
+My posts!
+Varying from simple ideas to whole projects!
+
+- (Get employed: a strange but effective way)[https://ben.h4ck.me/post1]
