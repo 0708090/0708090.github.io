@@ -1,7 +1,8 @@
 ---
-title: ben
+title: ben @ home
 layout: home
 permalink: /
 ---
 Welcome to ben's website.
-This is the *official* homepage.
+
+<< Don't forget *why* you do it. >>
