@@ -7,4 +7,4 @@ permalink: /posts
 My posts!
 Varying from simple ideas to whole projects!
 
-- [Get employed: a strange but effective way](post/getemployed)
+- [Get employed: a strange but effective way](/post/getemployed)
