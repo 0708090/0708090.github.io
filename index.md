@@ -3,6 +3,7 @@ title: home
 layout: home
 permalink: /
 ---
-Welcome to ben's website.
+Welcome to **ben**'s site!
 
-<< Don't forget *why* you do it. >>
+Look up to the right to navigate.
+Cheerio ✌️
