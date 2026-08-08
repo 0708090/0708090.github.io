@@ -47,8 +47,11 @@ footer { margin-bottom: 20px; }
  * Header/Navigation
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
+//original home with all other links (top bar)
 //.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
-.menu ul {// home on the left
+
+// home on the left
+.menu ul {
   margin-top: 12px;
   margin-bottom: 12px;
   padding-left: 0px;
@@ -56,14 +59,17 @@ footer { margin-bottom: 20px; }
   display: flex;
   justify-content: space-between;
   gap: 20px;
+  margin-left: 0;
 }
 
 .menu ul li {
   display: inline;
+  margin: 0;
+  padding: 0;
 }
 
-.menu ul li:first-child {
-  margin-right: auto;
+.menu ul li:not(:first-child) {
+  margin-left: 10px;
 }
 // end home left
 
