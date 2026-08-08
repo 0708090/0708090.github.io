@@ -6,6 +6,9 @@
   <title>ben @ {{ page.title }}</title>
   {%- seo title=false -%}
 
+  <link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}">
+  <link rel="shortcut icon" type="image/png" href="{{ '/favicon.png' | relative_url }}">
+  
   {% if page.robots %}
   <meta name="robots" content="{{page.robots}}" />
   {% endif %}
