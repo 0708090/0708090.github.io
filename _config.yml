@@ -2,10 +2,10 @@ permalink: pretty
 
 header_pages:
   - index.md
-  - about.md
   - posts/posts.md
+  - about.md
 
-footer: 'Check me on <a href="https://github.com/benquantum" target="_blank">github</a>!'
+footer: 'check me on <a href="https://github.com/benquantum" target="_blank">github</a>!'
 
 plugins:
   - jekyll-seo-tag
