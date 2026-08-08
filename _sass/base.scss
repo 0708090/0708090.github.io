@@ -48,17 +48,24 @@ footer { margin-bottom: 20px; }
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
 //.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
-.menu ul { //to have home on the left
-  margin-top: 12px;  
-  margin-bottom: 12px;  
-  padding-left: 0px;  
-  list-style-type: none;  
+.menu ul {// home on the left
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding-left: 0px;
+  list-style-type: none;
   display: flex;
   justify-content: space-between;
+  gap: 20px;
 }
+
+.menu ul li {
+  display: inline;
+}
+
 .menu ul li:first-child {
-  margin-left: 0;
-} //end of home left
+  margin-right: auto;
+}
+// end home left
 
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); }
