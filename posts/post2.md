@@ -10,4 +10,4 @@ permalink: /post/shoplist
 - Solder paste
 - Wire
 
-<img src="https://media.cnn.com/api/v1/images/stellar/prod/251223-trump-epstein-vrtc-thumb-clean.png" width=300>
+<img src="https://pub-5c24a90582244991a7a9f64fb662d738.r2.dev/assets/hogrider.jpg" width=300>
