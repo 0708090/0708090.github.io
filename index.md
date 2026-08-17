@@ -8,3 +8,8 @@ Welcome to **ben**'s site!
 
 Look up to the right to navigate.
 Cheerio ✌️
+
+PLEASE NOTE: WORK IN PROGRESS SITE!
+It will be my cybersecurity career portfolio site, for now I'm putting random posts for testing :)
+
+*// Added Cloudflare R2 Bucket accessibility! Check this [post](https://ben.h4ck.me/post/shoplist) to see a hog rider 👍*
