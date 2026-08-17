@@ -53,6 +53,8 @@ footer { margin-bottom: 20px; }
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
 // Active current page title
 .menu ul li a.active, .menu ul li a[aria-current="page"] { color: var(--current-page-color); }
+.menu ul li a[aria-current="page"]:hover { color: inherit; }
+//end of current page title
 
 /**
  * Form
