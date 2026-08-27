@@ -1,5 +1,5 @@
 ---
-title: the shop list
+title: CRT RGB Mod
 layout: default
 permalink: /post/crt-rgb-mod
 ---
