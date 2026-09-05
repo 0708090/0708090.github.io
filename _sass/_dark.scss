@@ -4,14 +4,14 @@
 
 @mixin theme() {
   :root {
-    --base-color: #DBDBDB;
-    --border: dashed 1px rgba(219, 219, 219, 0.9);
+    --base-color: #e5ffe5; //#DBDBDB
+    --border: dashed 1px var(--base-color); //rgba(219, 219, 219, 0.9);
     --selection-background: rgba(219, 219, 219, 0.99);
     --selection-text: #000;
     --background-color: #020802; //dark green-black
     --text-color: var(--base-color);
     --placeholder-color: var(--base-color);
-    --link-color: var(--base-color);
+    --link-color: var(--current-page-color);  // --base-color
     --code-color-1: #aaaaaa;
     --code-color-2: #ffffcc;
     --code-color-3: #F00000;
