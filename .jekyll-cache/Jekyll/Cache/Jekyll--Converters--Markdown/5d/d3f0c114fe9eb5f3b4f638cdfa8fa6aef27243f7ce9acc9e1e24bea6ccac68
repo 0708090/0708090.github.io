@@ -1,11 +1,5 @@
----
-layout: default
-permalink: /404
-robots: noindex
----
-
-<pre class="yellow">404</pre>
-Page not found :(
+I"N<p><strong>&lt;pre class="yellow"&gt;404&lt;/pre&gt;</strong>
+Page not found :(</p>
 
 <pre class="yellow">
    ________________________________________________________________________
@@ -25,3 +19,4 @@ Page not found :(
     | /                                                                   /.
     \/___________________________________________________________________/.
 </pre>
+:ET

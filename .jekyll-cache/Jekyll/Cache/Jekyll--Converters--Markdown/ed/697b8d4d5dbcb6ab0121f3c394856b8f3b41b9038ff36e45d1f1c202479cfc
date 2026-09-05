@@ -1,0 +1,15 @@
+I"+<h1 id="crt-modding-adding-rgb-input-support">CRT Modding: adding RGB input support</h1>
+<h2 id="for-crt-that-only-have-composite-input">for CRT that only have <strong>composite</strong> input</h2>
+
+<p>Yep, you’re deep down the rabbit hole.
+You got yourself a CRT TV and most likely an HDMI to RCA converter, and the image looks… garbage.<br />
+Not only cheap converters do not deliver a clear image, having a composite input does not help.<br />
+That’s why RGB input is the way: some TVs do officially support it and some don’t;
+in my case the SCART input on the back of the TV only supports composite, 
+that’s why we’re adding RGB support by modding the internal <em>jungle chip</em> inside the TV.</p>
+
+<h2 id="step-1-reckon">Step 1: reckon</h2>
+<p>blah blah</p>
+
+<!-- <img src="" width=300> -->
+:ET
