@@ -1,7 +1,8 @@
 # *Ben's Website Repo*
 ### *[benini.root.sx](https://benini.root.sx)*  
-Feel free to clone this repo and make your own!  
+Feel free to clone this repo and make it your own!  
 Please have a look at the [original template](https://github.com/b2a3e8/jekyll-theme-console) repo :)  
+([MIT Licensed](LICENSE))  
 While editing the site, I recommend [building locally](https://github.com/b2a3e8/jekyll-theme-console#development) using Docker instead of committing via git and waiting for actions deployment.  
 
 Subdomain *(root.sx)* obtained on [FreeDNS](https://freedns.afraid.org/) at no cost, check them out ❤️  
