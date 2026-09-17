@@ -4,14 +4,10 @@ layout: home
 permalink: /
 description: ben's portfolio & digital journal
 ---
-# Welcome to **ben**'s site!
-## Subtitle
+# I'm Ben!
+## cybersec enthusiast - IT student @ UniPisa
 
-Look up to the right to navigate.
-Cheerio ✌️
-**bold**
+More about me [here](/whoami)!  
+I do **software** and **build stuff!** Everything documented in [posts](/posts).  
 
-PLEASE NOTE: WORK IN PROGRESS SITE!
-It will be my cybersecurity career portfolio site, for now I'm putting random posts for testing :)
-
-*// Added Cloudflare R2 Bucket accessibility! Check this [post](/post/shoplist) to see a hog rider 👍*
+*is life worth all this trouble? tbh prolly not*
